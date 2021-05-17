@@ -1,0 +1,1 @@
+/Users/mwa75/Documents/projects/ghc-symlink-test/Lib.hs
